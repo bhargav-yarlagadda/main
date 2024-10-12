@@ -43,7 +43,6 @@ A simple web application that fetches and displays weather information based on 
     ```
 4. Run the Django development server: 
 
-  ```bash
+    ```bash
    python manage.py runserver
-
-    ```
+     ```
